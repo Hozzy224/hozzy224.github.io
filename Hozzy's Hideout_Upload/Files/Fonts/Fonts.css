@@ -1,0 +1,9 @@
+@font-face {
+font-family: "Comfortaa Bold";
+src: url("Comfortaa Bold.eot") format("eot"); /* IE9 Compat Modes */
+src: url("Comfortaa Bold.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+     url("Comfortaa Bold.woff") format("woff"), /* Modern Browsers */
+     url("Comfortaa Bold.ttf") format("truetype"); /* Safari, Android, iOS */
+font-weight: normal;
+font-style: normal;
+}

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc />
+    <lastmod>2017-09-30</lastmod>
+  </url>
+  <url oeid="e6a45c97-eadf-4d3b-8369-f52ce68e586e" oelang="DEFAULT">
+    <loc>index.htm</loc>
+    <lastmod>2017-09-29</lastmod>
+  </url>
+  <url oeid="92c0e5ca-9e3c-455d-b9bc-1698ac7c132c" oelang="DEFAULT">
+    <loc>Guides page.htm</loc>
+    <lastmod>2017-09-29</lastmod>
+  </url>
+  <url oeid="4a53797e-746f-4b5a-90bc-6130609f54ff" oelang="DEFAULT">
+    <loc>Credits.htm</loc>
+    <lastmod>2017-09-29</lastmod>
+  </url>
+  <url oeid="a48563d5-64e9-4b0a-a66d-01664c8f9882" oelang="DEFAULT">
+    <loc>Contact.htm</loc>
+    <lastmod>2017-09-30</lastmod>
+  </url>
+  <url oeid="673e367b-ef98-47b4-8f8e-adb67d24df55" oelang="DEFAULT">
+    <loc>Screen Shots.htm</loc>
+    <lastmod>2017-09-30</lastmod>
+  </url>
+  <url oeid="5267c1c4-f3f1-4e0d-9f39-a91b0e2347e7" oelang="DEFAULT">
+    <loc>Message center.htm</loc>
+    <lastmod>2017-09-30</lastmod>
+  </url>
+</urlset>
